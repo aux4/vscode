@@ -1,0 +1,10 @@
+{
+    "iconDefinitions": {
+        "aux4": {
+            "iconPath": "./icons/aux4.svg"
+        }
+    },
+    "fileExtensions": {
+        "aux4": "aux4"
+    }
+}
